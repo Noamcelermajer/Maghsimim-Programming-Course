@@ -1,0 +1,29 @@
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe.config
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojResolveAssemblyReference.cache
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\MainWindow.baml
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\MainWindow.g.cs
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\App.g.cs
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample_MarkupCompile.cache
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.g.resources
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.Cache
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+C:\Users\Erez\Dropbox\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
+D:\OneDrive\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe.config
+D:\OneDrive\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+D:\OneDrive\משרד החינוך\דוגמאות קוד\Async Programming\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe.config
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.exe
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.pdb
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.exe
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\bin\Debug\BackgroundWorkerSample.pdb
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csprojResolveAssemblyReference.cache
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\MainWindow.baml
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\MainWindow.g.cs
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\App.g.cs
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample_MarkupCompile.cache
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.g.resources
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.Properties.Resources.resources
+D:\OneDrive\משרד החינוך\פיתוח אפליקציות\דוגמאות קוד\Async Programming\System.Threading Code Samples\BackgroundWorkerSample\BackgroundWorkerSample\obj\Debug\BackgroundWorkerSample.csproj.GenerateResource.Cache

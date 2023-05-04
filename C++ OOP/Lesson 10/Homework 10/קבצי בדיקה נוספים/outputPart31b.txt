@@ -1,0 +1,10 @@
+Items in shopping cart: Groceries
+[Serial: KXR7P, Name: Cucumber 0.5 kg, Category: Food, Price: 2.950000, Amount: 1]
+[Serial: MGlIO, Name: Tomato 0.5 kg, Category: Food, Price: 3.950000, Amount: 3]
+[Serial: N9Jrv, Name: Red Onion 0.5 kg, Category: Food, Price: 3.450000, Amount: 1]
+[Serial: QNB48, Name: Olive Oil 750ml, Category: Food, Price: 29.900000, Amount: 1]
+[Serial: USlOG, Name: Milk 3% 1 liter, Category: Food, Price: 5.179000, Amount: 2]
+[Serial: V3821, Name: Pasta 1kg, Category: Food, Price: 9.800000, Amount: 4]
+[Serial: ZWUry, Name: Eggs size Large, Category: Food, Price: 11.300000, Amount: 2]
+[Serial: nthNC, Name: Mineral Water 6 pack, Category: Food, Price: 13.900000, Amount: 1]
+[Serial: xpo6u, Name: Butter 100g, Category: Food, Price: 3.940000, Amount: 2]

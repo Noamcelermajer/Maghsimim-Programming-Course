@@ -1,0 +1,6 @@
+[Serial: boPnl, Name: Bleach 2 liter, Category: Cleaning, Price: 12.500000, Amount: 1]
+[Serial: RarYT, Name: Dishwash Soap 515ml, Category: Cleaning, Price: 13.900000, Amount: 1]
+[Serial: EVrno, Name: Paper Touls 6pack, Category: Cleaning, Price: 10.910000, Amount: 1]
+[Serial: Jn2XA, Name: Washing Machine Conditioner 1 liter, Category: Cleaning, Price: 16.900000, Amount: 1]
+[Serial: 10qgM, Name: Washing Machine powder 1.25Kg, Category: Cleaning, Price: 12.900000, Amount: 1]
+[Serial: SdQ46, Name: Window Cleaning Fluid 1 liter, Category: Cleaning, Price: 11.900000, Amount: 1]

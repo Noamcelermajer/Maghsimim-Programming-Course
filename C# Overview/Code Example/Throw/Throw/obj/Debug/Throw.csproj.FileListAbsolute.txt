@@ -1,0 +1,5 @@
+c:\users\erezk\documents\visual studio 2017\Projects\Throw\Throw\bin\Debug\Throw.exe.config
+c:\users\erezk\documents\visual studio 2017\Projects\Throw\Throw\bin\Debug\Throw.exe
+c:\users\erezk\documents\visual studio 2017\Projects\Throw\Throw\bin\Debug\Throw.pdb
+c:\users\erezk\documents\visual studio 2017\Projects\Throw\Throw\obj\Debug\Throw.exe
+c:\users\erezk\documents\visual studio 2017\Projects\Throw\Throw\obj\Debug\Throw.pdb

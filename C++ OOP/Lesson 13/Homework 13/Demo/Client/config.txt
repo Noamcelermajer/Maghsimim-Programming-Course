@@ -1,0 +1,8 @@
+server_ip=127.0.0.1
+port=8826
+size=12
+bold=false
+underline=false
+forecolor=Black
+font=Thoma
+backcolor=White

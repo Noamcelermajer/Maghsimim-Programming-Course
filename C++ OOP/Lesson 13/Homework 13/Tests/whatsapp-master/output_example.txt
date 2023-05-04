@@ -1,0 +1,57 @@
+Adding 3 new users
+User Name: first_user_duqpc
+==========
+second_user_fhhre: Logged In: True
+     Chat content for first_user_duqpc <=> second_user_fhhre
+          <Chat is empty>
+third_user_obuge: Logged In: True
+     Chat content for first_user_duqpc <=> third_user_obuge
+          <Chat is empty>
+
+User Name: second_user_fhhre
+==========
+first_user_duqpc: Logged In: True
+     Chat content for second_user_fhhre <=> first_user_duqpc
+          <Chat is empty>
+third_user_obuge: Logged In: True
+     Chat content for second_user_fhhre <=> third_user_obuge
+          <Chat is empty>
+
+User Name: third_user_obuge
+==========
+first_user_duqpc: Logged In: True
+     Chat content for third_user_obuge <=> first_user_duqpc
+          <Chat is empty>
+second_user_fhhre: Logged In: True
+     Chat content for third_user_obuge <=> second_user_fhhre
+          <Chat is empty>
+
+Sending messages between users and validates
+User Name: first_user_duqpc
+==========
+second_user_fhhre: Logged In: True
+     Chat content for first_user_duqpc <=> second_user_fhhre
+          first_user_duqpc: Hi, how are you today?
+third_user_obuge: Logged In: True
+     Chat content for first_user_duqpc <=> third_user_obuge
+          <Chat is empty>
+
+User Name: second_user_fhhre
+==========
+first_user_duqpc: Logged In: True
+     Chat content for second_user_fhhre <=> first_user_duqpc
+          first_user_duqpc: Hi, how are you today?
+third_user_obuge: Logged In: True
+     Chat content for second_user_fhhre <=> third_user_obuge
+          <Chat is empty>
+
+User Name: third_user_obuge
+==========
+first_user_duqpc: Logged In: True
+     Chat content for third_user_obuge <=> first_user_duqpc
+          <Chat is empty>
+second_user_fhhre: Logged In: True
+     Chat content for third_user_obuge <=> second_user_fhhre
+          <Chat is empty>
+
+Good job :)

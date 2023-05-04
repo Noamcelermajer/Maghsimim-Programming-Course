@@ -1,0 +1,4 @@
+Items in shopping cart: HomeStuff
+[Serial: bye6X, Name: Bar Chair, Category: Home, Price: 295.000000, Amount: 4]
+[Serial: mRbpH, Name: Wooden Chair, Category: Home, Price: 342.000000, Amount: 4]
+[Serial: pj77k, Name: Office Desk, Category: Home, Price: 1050.000000, Amount: 1]

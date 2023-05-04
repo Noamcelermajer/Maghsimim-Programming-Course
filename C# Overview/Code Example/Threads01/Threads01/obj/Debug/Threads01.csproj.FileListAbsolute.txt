@@ -1,0 +1,5 @@
+c:\users\erezk\documents\visual studio 2015\Projects\Threads01\Threads01\bin\Debug\Threads01.exe
+c:\users\erezk\documents\visual studio 2015\Projects\Threads01\Threads01\bin\Debug\Threads01.pdb
+c:\users\erezk\documents\visual studio 2015\Projects\Threads01\Threads01\obj\Debug\Threads01.csprojResolveAssemblyReference.cache
+c:\users\erezk\documents\visual studio 2015\Projects\Threads01\Threads01\obj\Debug\Threads01.exe
+c:\users\erezk\documents\visual studio 2015\Projects\Threads01\Threads01\obj\Debug\Threads01.pdb

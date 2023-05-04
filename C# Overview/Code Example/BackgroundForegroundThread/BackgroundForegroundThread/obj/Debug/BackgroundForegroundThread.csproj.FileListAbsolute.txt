@@ -1,0 +1,6 @@
+c:\users\erezk\documents\visual studio 2017\Projects\BackgroundForegroundThread\BackgroundForegroundThread\bin\Debug\BackgroundForegroundThread.exe.config
+c:\users\erezk\documents\visual studio 2017\Projects\BackgroundForegroundThread\BackgroundForegroundThread\bin\Debug\BackgroundForegroundThread.exe
+c:\users\erezk\documents\visual studio 2017\Projects\BackgroundForegroundThread\BackgroundForegroundThread\bin\Debug\BackgroundForegroundThread.pdb
+c:\users\erezk\documents\visual studio 2017\Projects\BackgroundForegroundThread\BackgroundForegroundThread\obj\Debug\BackgroundForegroundThread.csprojResolveAssemblyReference.cache
+c:\users\erezk\documents\visual studio 2017\Projects\BackgroundForegroundThread\BackgroundForegroundThread\obj\Debug\BackgroundForegroundThread.exe
+c:\users\erezk\documents\visual studio 2017\Projects\BackgroundForegroundThread\BackgroundForegroundThread\obj\Debug\BackgroundForegroundThread.pdb

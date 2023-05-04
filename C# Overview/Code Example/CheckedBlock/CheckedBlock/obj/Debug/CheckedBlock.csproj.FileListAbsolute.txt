@@ -1,0 +1,5 @@
+c:\users\erezk\documents\visual studio 2017\Projects\CheckedBlock\CheckedBlock\bin\Debug\CheckedBlock.exe.config
+c:\users\erezk\documents\visual studio 2017\Projects\CheckedBlock\CheckedBlock\bin\Debug\CheckedBlock.exe
+c:\users\erezk\documents\visual studio 2017\Projects\CheckedBlock\CheckedBlock\bin\Debug\CheckedBlock.pdb
+c:\users\erezk\documents\visual studio 2017\Projects\CheckedBlock\CheckedBlock\obj\Debug\CheckedBlock.exe
+c:\users\erezk\documents\visual studio 2017\Projects\CheckedBlock\CheckedBlock\obj\Debug\CheckedBlock.pdb

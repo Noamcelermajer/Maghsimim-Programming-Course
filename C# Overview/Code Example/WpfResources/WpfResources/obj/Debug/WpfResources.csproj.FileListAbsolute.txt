@@ -1,0 +1,13 @@
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\bin\Debug\WpfResources.exe
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\bin\Debug\WpfResources.pdb
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.csprojResolveAssemblyReference.cache
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\MainWindow.g.cs
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\App.g.cs
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources_MarkupCompile.cache
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources_MarkupCompile.lref
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\MainWindow.baml
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.g.resources
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.Properties.Resources.resources
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.csproj.GenerateResource.Cache
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.exe
+c:\users\erezk\documents\visual studio 2015\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.pdb

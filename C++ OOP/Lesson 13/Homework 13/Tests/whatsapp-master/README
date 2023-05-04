@@ -1,0 +1,48 @@
+
+ __          ___           _                           _______        _   _
+ \ \        / / |         | |                         |__   __|      | | (_)
+  \ \  /\  / /| |__   __ _| |_ ___  __ _ _ __  _ __      | | ___  ___| |_ _ _ __   __ _
+   \ \/  \/ / | '_ \ / _` | __/ __|/ _` | '_ \| '_ \     | |/ _ \/ __| __| | '_ \ / _` |
+    \  /\  /  | | | | (_| | |_\__ \ (_| | |_) | |_) |    | |  __/\__ \ |_| | | | | (_| |
+     \/  \/   |_| |_|\__,_|\__|___/\__,_| .__/| .__/     |_|\___||___/\__|_|_| |_|\__, |
+                                        | |   | |                                  __/ |
+                                        |_|   |_|                                 |___/
+
+
+Hello for all great students in Magshimim class
+
+What does it do?
+=================
+This python projects is helping for testing Whatsapp server you just finished to coding.
+In consts.py you will find the server address and port, the default address is 127.0.0.1:8826, fill free to change as
+you need, remember to change it also in the server side
+
+What the tests check?
+======================
+The test is checking basic functionality of the Whatsapp server, and simulates multiple users.
+It adding 3 new users, validates all users are exist in each client,
+and finally sending message between 2 users, and validates that message has been received by 2 end-users.
+
+How to run this test?
+=====================
+Requirement:
+1. The project was tested with python 3.7.4. It can also worked on other python versions.
+Download latest python version for windows from: https://www.python.org/downloads/
+
+2. This project uses python package called termcolor to print colorful output
+    use this command to install: pip install termcolor
+    cannot find pip exception: Try to use google to solve you issue, and after it install termcolor
+
+3. In order to see the colorful output- you need to run it with ipython.
+    install ipython (powerful python interpreter): pip install ipython
+
+How to run?
+The main function is in tests.py.
+Execute in elevated cmd:
+    Right click on cmd.exe -> "Run as Administrator". Then execute "ipython tests.py"
+
+What to expect?
+The test has indicative message. If all is good expect "Good Job :)" in the end.
+You shouldn't see any exception in the output.
+Example output is in output_example.txt file
+
